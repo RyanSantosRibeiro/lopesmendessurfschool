@@ -1,0 +1,12 @@
+{
+  "name": "lopes-mendes-surf-school",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1 --port 4178 --strictPort",
+    "build": "vite build",
+    "preview": "vite preview --host 127.0.0.1 --port 4178 --strictPort"
+  },
+  "devDependencies": { "vite": "^7.1.0" }
+}
